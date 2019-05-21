@@ -3,6 +3,7 @@ overlay/frameworks/base/core/res/.DS_Store
 .DS_Store
 .DS_Store
 .DS_Store
+*.DS_Store
 overlay/.DS_Store
 overlay/frameworks/.DS_Store
 overlay/frameworks/base/.DS_Store
